@@ -138,14 +138,4 @@ elif temperature == 'HOT':
 
 print('Speed:', speed_value)
 
-# if speed_value == 'SLOW':
-#     speed.maximum = speed.s2
-#     speed.minimum = speed.s1
-# elif speed_value == 'STEADY':
-#     speed.maximum = speed.s3
-#     speed.minimum = speed.s2
-# elif speed_value == 'FAST':
-#     speed.maximum = speed.s4
-#     speed.minimum = speed.s3
-
 speed.graph()
