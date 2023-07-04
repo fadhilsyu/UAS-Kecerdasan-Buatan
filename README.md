@@ -8,7 +8,7 @@ Dapat dilihat, jika saya memasukkan input :
 - pressure_value = 'VERY LOW'
 
 Maka Output pada terminal akan menunjukkan :
-Speed : FAST
+- Speed : FAST
 
 Sesuai dengan ketentuan / aturan yang telah dimasukkan
 
